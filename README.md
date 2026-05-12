@@ -20,10 +20,10 @@ Soy un Tester QA apasionado por la calidad y la programación. Me destaco por mi
 
 ## 📈 Proyectos Destacados
 
-* [ProyectoCypress](https://github.com/Maxi-04/Automation-Testing-Cypress)
-* [PostmanAPITesging](https://github.com/Maxi-04/Postman-API-Testing)
-* [JavaScriptCoderHouse](https://github.com/Maxi-04/Javascript-Coderhouse)
-* [TestingQACoderHouse](https://github.com/Maxi-04/Testing-QA-Manual-Coderhouse)
+* [ProyectoCypress](https://github.com/MaxiFernandes/Automation-Testing-Cypress)
+* [PostmanAPITesging](https://github.com/MaxiFernandes/Postman-API-Testing)
+* [JavaScriptCoderHouse](https://github.com/MaxiFernandes/Javascript-Coderhouse)
+* [TestingQACoderHouse](https://github.com/MaxiFernandes/Testing-QA-Manual-Coderhouse)
 
 ---
 
