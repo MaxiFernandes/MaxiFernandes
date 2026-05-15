@@ -10,7 +10,7 @@ Soy un Tester QA apasionado por la calidad y la programación. Me destaco por mi
 
 ## 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes de Programación:** HTML, CSS, JavaScript, TypeScript.  
+* **Lenguajes de Programación:** HTML, CSS, JavaScript, TypeScript
 * **Frameworks:** Cypress, Playwright  
 * **API:** Postman  
 * **Bases de Datos:** MySQL, DBeaver  
