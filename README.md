@@ -21,7 +21,7 @@ Soy un Tester QA apasionado por la calidad y la programación. Me destaco por mi
 ## 📈 Proyectos Destacados
 
 * [Playwright-Cucumber-BDD](https://github.com/MaxiFernandes/Playwright-Cucumber-BDD)
-* [ProyectoCypress](https://github.com/MaxiFernandes/Automation-Testing-Cypress)
+* [Automation-Testing-Cypress](https://github.com/MaxiFernandes/Automation-Testing-Cypress)
 * [PostmanAPITesging](https://github.com/MaxiFernandes/Postman-API-Testing)
 * [JavaScriptCoderHouse](https://github.com/MaxiFernandes/Javascript-Coderhouse)
 * [TestingQACoderHouse](https://github.com/MaxiFernandes/Testing-QA-Manual-Coderhouse)
