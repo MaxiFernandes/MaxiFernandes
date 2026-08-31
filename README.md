@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un Tester QA apasionado por la calidad y la programación. Me destaco por mi responsabilidad, compromiso y atención al detalle, tanto en trabajo en equipo como en proyectos individuales. Siempre busco superarme, aprendiendo continuamente y enfrentando nuevos desafíos con entusiasmo.
+Soy un Analista QA apasionado por la calidad y la programación. Me destaco por mi responsabilidad, compromiso y atención al detalle, tanto en trabajo en equipo como en proyectos individuales. Siempre busco superarme, aprendiendo continuamente y enfrentando nuevos desafíos con entusiasmo.
 
 ---
 
